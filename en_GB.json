@@ -20,7 +20,7 @@
     "general.form.label.default.payment": "",
     "general.form.label.doorCode": "",
     "general.form.label.doorCode.info": "",
-    "general.form.label.email": "",
+    "general.form.label.email": "E-Mail address",
     "general.form.label.email.mandatory": "",
     "general.form.label.email.new": "",
     "general.form.label.emailConfirmation": "",
